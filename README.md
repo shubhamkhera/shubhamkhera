@@ -1,6 +1,6 @@
 ## Hi, Welcome to My GitHub 👋
 
-## <center>I am Shubham Khera</center>
+<center>I am Shubham Khera</center>
 
 <!--
 **shubhamkhera/shubhamkhera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
