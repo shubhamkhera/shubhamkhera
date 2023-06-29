@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I am Shubham</h1>
-
-<h3 align="center">A Passionate and Professional Data Scientist</h3>
+<h1 align="center">Hi 👋, Welcome to my GitHub</h1>
+<h3 align="center">I am Shubham </h3>
+<h4 align="center">A Passionate and Professional Data Scientist</h4>
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <h4 align="left">I have technical experience and interest in:</h4>
