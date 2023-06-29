@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I have technical experience and interest in -
-Data Analysis and Visualization
-Machine Learning
-Computer vision
-Natural Language Processing
-Deep Learning
-Reinforcement Learning
+- Data Analysis and Visualization
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- Deep Learning
+- Reinforcement Learning
